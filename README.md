@@ -95,10 +95,9 @@ Follow the diagnostic flow manually.
 ```text
 looking-glass/
 ├── README.md
-├── LICENSE.md
+├── LICENSE
 ├── CHANGELOG.md
 ├── CONTRIBUTING.md
-├── GITHUB_SETUP.md
 ├── framework/
 │   └── looking-glass.md
 ├── instructions/
@@ -164,7 +163,7 @@ Looking Glass is released under **CC BY 4.0**.
 
 You may use, share, and adapt the framework, including commercially, as long as appropriate attribution is provided and changes are indicated.
 
-See `LICENSE.md`.
+See `LICENSE`.
 
 ## Attribution
 
